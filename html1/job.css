@@ -1,0 +1,70 @@
+	<header>
+	<style>
+		p {
+			font-size: 50px;
+
+		}
+		
+		a:visited{
+		
+			color: white;
+		}
+		a:hover {
+			color: #FD3E15;
+            
+}
+		div.a {
+  
+
+}
+		div.b{
+  text-align: center;
+  font-size: 20px;
+
+}       
+        div.c{
+
+  font-size: 20px;
+
+}
+        div.d{
+        	
+        		
+
+}
+     ul{
+        list-style-type: none;
+      }
+    
+
+        body{
+			background-color:#FF6F50;
+			
+		}      
+       .nav {
+       	background-color: #FF927B;
+       	list-style-type: none;
+       	text-align: center;
+       	justify-content: space-between ;
+       	height: 80px;
+
+
+       }
+       .nav li{
+       	display: inline-block;
+       	font-size: 20px;
+       	padding: 20px;
+
+       	
+
+       }
+       .nav1 {
+       	position: relative;
+       	bottom:75px;
+       	width: 70px;
+       	left: 10px;
+        
+       }
+
+</style>
+</header>
